@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 # vim:tabstop=4:expandtab:sw=4:softtabstop=4
 
-from requests_oauthlib import OAuth2Session
 from api import SimpleTax
 
 client_id = ''
