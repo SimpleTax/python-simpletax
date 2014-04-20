@@ -9,7 +9,7 @@ setup(
     url='http://pypi.python.org/pypi/python-simpletax/',
     license='LICENSE.txt',
     description='Python API client to gosimpletax.com',
-    long_description=open('README.txt').read(),
+    long_description=open('README.markdown').read(),
     install_requires=[
         "requests-oauthlib == 0.3.2",
     ],
